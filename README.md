@@ -5,8 +5,6 @@
 http://www.indialearningplatform.online/
 
 
-# youtube channel link:
-https://www.youtube.com/watch?v=j9RtvsDaav8&t=25s
+# youtube link:
 
-# Web-Demo:
-https://www.youtube.com/watch?v=j9RtvsDaav8
+
