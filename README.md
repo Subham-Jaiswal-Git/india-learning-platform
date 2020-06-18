@@ -2,7 +2,7 @@
  https://androapp.mobi/appCreator//apk/9198659605ec2bafbe16173.83986859.apk 
 
 # website link:
-http://www.indialearningplatform.online/
+https://indialearningplatformwebsite.000webhostapp.com/
 
 
 # youtube link:
