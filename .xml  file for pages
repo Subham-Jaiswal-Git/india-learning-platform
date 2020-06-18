@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-06-04 20:32" -->
+	<!-- generator="WordPress/5.4.2" created="2020-06-18 20:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,58 +26,355 @@
 >
 
 <channel>
-	<title>INDIA LEARNING PLATFORM!</title>
-	<link>http://35.240.235.180</link>
-	<description>An online learning website.</description>
-	<pubDate>Thu, 04 Jun 2020 20:32:50 +0000</pubDate>
-	<language>en-US</language>
+	<title>India Learning Platform Website</title>
+	<link>https://indialearningplatformwebsite.000webhostapp.com</link>
+	<description>An online learning website</description>
+	<pubDate>Thu, 18 Jun 2020 20:11:48 +0000</pubDate>
+	<language>en-GB</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://35.240.235.180</wp:base_site_url>
-	<wp:base_blog_url>http://35.240.235.180</wp:base_blog_url>
+	<wp:base_site_url>https://indialearningplatformwebsite.000webhostapp.com</wp:base_site_url>
+	<wp:base_blog_url>https://indialearningplatformwebsite.000webhostapp.com</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[user]]></wp:author_login><wp:author_email><![CDATA[user@example.com]]></wp:author_email><wp:author_display_name><![CDATA[user]]></wp:author_display_name><wp:author_first_name><![CDATA[SUBHAM]]></wp:author_first_name><wp:author_last_name><![CDATA[JAISWAL]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[subhamk.jaiswal94@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[user]]></wp:author_login><wp:author_email><![CDATA[user@example.com]]></wp:author_email><wp:author_display_name><![CDATA[user]]></wp:author_display_name><wp:author_first_name><![CDATA[SUBHAM]]></wp:author_first_name><wp:author_last_name><![CDATA[JAISWAL]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>http://35.240.235.180/wp-content/uploads/2020/05/cropped-1-32x32.png</url>
-	<title>INDIA LEARNING PLATFORM!</title>
-	<link>http://35.240.235.180</link>
+	<url>https://indialearningplatformwebsite.000webhostapp.com/wp-content/uploads/2020/06/cropped-DeepinScreenshot_select-area_20200617194235-2-32x32.png</url>
+	<title>India Learning Platform Website</title>
+	<link>https://indialearningplatformwebsite.000webhostapp.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">176790425</site>
+
 		<item>
 		<title>Sample Page</title>
-		<link>http://35.240.235.180/sample-page__trashed/</link>
-		<pubDate>Tue, 21 Apr 2020 23:48:07 +0000</pubDate>
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<guid isPermaLink="false">http:/?page_id=2</guid>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/sample-page__trashed</link>
+		<pubDate>Sat, 13 Jun 2020 11:30:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[!-- wp:code -->
+<pre class="wp-block-code"><code></code></pre>
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
+<blockquote><a href="file:///home/subham/Desktop/sdf/V1/index.html"></a>
+<!-- /wp:code -->
 
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Samyak Dristi Foundation</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+		<meta name="description" content="" />
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
+		<!-- Bootstrap CSS -->
+		<link
+			rel="stylesheet"
+			href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+			crossorigin="anonymous"
+		/>
 
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http:/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<!-- local css -->
+		<link rel="stylesheet" href="./styles.css" />
+	</head>
+	<body>
+		<div class="app">
+			<div class="screen-one">
+				<!-- header starts -->
+				<header>
+					<nav class="navbar navbar-expand-lg">
+						<a class="navbar-brand font-weight-light" href="#"
+							>Samyak Dristi Foundation</a
+						>
+						<button
+							class="navbar-toggler"
+							type="button"
+							data-toggle="collapse"
+							data-target="#navbarSupportedContent"
+							aria-controls="navbarSupportedContent"
+							aria-expanded="false"
+							aria-label="Toggle navigation"
+						>
+							<span class="navbar-toggler-icon"
+								><img
+									src="./res/icon/menu.png"
+									alt=""
+									height="30px"
+									width="30px"
+							/></span>
+						</button>
+
+						<div class="collapse navbar-collapse" id="navbarSupportedContent">
+							<ul class="navbar-nav ml-auto">
+								<li class="nav-item active">
+									<a class="nav-link active" href="#">Home</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">About us</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Gallery</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Blog</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Contact</a>
+								</li>
+							</ul>
+							<button class="btn btn-outline-warning text-uppercase">
+								donate
+							</button>
+						</div>
+					</nav>
+				</header>
+				<!-- header end -->
+				<div class="title-text">
+					<h3>
+						Teh Foundation for Social Change and Inclusion works for teh social
+						development.
+					</h3>
+					<div class="row mt-4 justify-content-center w-25">
+						<button class="title-btn btn btn-light mr-3 pl-4 pr-4 mt-3">
+							Get started
+						</button>
+						<button class="title-btn btn btn-warning pl-4 pr-4 mt-3">
+							Donate
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="screen-two">
+				<h4 class="text-center pt-5">Our Mission</h4>
+				<p class="text-center pt-3">
+					These capture teh essence of our organization's belief,<br />
+					values and define our place in world
+				</p>
+				<div class="mission">
+					<div class="container-fluid mt-5">
+						<div class="row justify-content-center text-center">
+							<div class="col-md-2 mt-4">
+								<h5>Purpose</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Planning</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Perseverence</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Passion</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Pride</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid bg-light mt-5">
+					<div class="row">
+						<div class="col-md-6 col-sm-12 img-con-1 h-100 text-center">
+							<img src="./res/img/Slide1.JPG" class="img-thumbnail" alt="" />
+						</div>
+						<div class="col-md-6 p-5">
+							<h3 class="font-weight-bolder">
+								Who <span class="text-warning">We</span> Are
+							</h3>
+							<p class="font-weight-lighter">
+								Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+								Delectus alias nobis autem quaerat reprehenderit officia vel
+								labore repellat voluptas dolorem, nulla voluptatum! Laborum ut
+								assumenda ad obcaecati sint commodi expedita modi neque quasi,
+								id accusantium quia doloremque sequi beatae. Repellendus odit
+								repudiandae magni iure provident dolore officiis cum eveniet.
+								Pariatur!
+							</p>
+							<button
+								class="btn btn-outline-warning font-weight-lighter pl-3 pr-3"
+							>
+								Read More
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="screen-three">
+				<h3 class="text-center pt-5">
+					Featured <span class="text-warning">Causes</span>
+				</h3>
+				<div class="container-fluid p-5">
+					<div class="row justify-content-center align-items-center">
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide1.JPG"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+										Repudiandae, quidem
+									</p>
+									<a href="#" class="text-warning">Read more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide5.jpg"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Some quick example text to build on teh card title and make
+										up teh bulk of teh card's content.
+									</p>
+									<a href="#" class="text-warning">Read more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide20.jpg"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Quam, error!
+									</p>
+									<a href="#" class="text-warning">Read more </a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid">
+					<div class="row justify-content-center text-center p-5 bg-light">
+						<div class="col-md-3">
+							<h2 class="text-warning">100+</h2>
+							<p>volunteer around world</p>
+						</div>
+						<div class="col-md-3">
+							<h2 class="text-warning">1000+</h2>
+							<p>people impacted</p>
+						</div>
+						<div class="col-md-3">
+							<h2 class="text-warning">200+</h2>
+							<p>positive feedback</p>
+						</div>
+					</div>
+					<div class="row text-center join-us p-5">
+						<h2 class="text-center w-100">Become a volunteer</h2>
+						<p class="text-center w-100">
+							join us for better life and beautiful future
+						</p>
+						<button class="btn btn-light">Join us now</button>
+					</div>
+				</div>
+			</div>
+			<div class="screen-four">
+				<div class="contact-form pt-5">
+					<h2 class="text-center pt-5">
+						Contact <span class="text-warning">Us</span>
+					</h2>
+					<p class="text-center font-weight-lighter">
+						Drop a message to get more info about out activities,<br />
+						we will love to hear from you,
+					</p>
+					<form class="w-100">
+						<div class="row w-100 justify-content-center">
+							<div class="form-group form-margin">
+								<label for="FullName">Name</label>
+								<input type="text" class="input form-control" id="fname" />
+							</div>
+							<div class="form-group form-margin">
+								<label for="inputEmail">Email address</label>
+								<input
+									type="email"
+									class="input form-control"
+									id="inputEmail"
+								/>
+							</div>
+						</div>
+						<div
+							class="form-margin form-group justify-content-center w-50 mt-3"
+						>
+							<label for="message">Message</label>
+							<input type="text" class="input form-control" id="message" />
+						</div>
+						<button class="btn btn-outline-warning pl-5 pr-5 mb-5 mt-3">
+							Submit
+						</button>
+					</form>
+				</div>
+				<footer class="p-3 bg-warning">
+					<div class="container">
+						<p class="m-0 text-center text-white">
+							Copyright &copy; TEMPYou're Website 2020
+						</p>
+					</div>
+				</footer>
+			</div>
+		</div>
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script
+			src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>
+
+<!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-21 23:48:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-21 23:48:07]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-06-13 12:30:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-13 11:30:21]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
@@ -92,12 +389,24 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589800135]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1592417280]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -105,8 +414,46 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Privacy Policy</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/privacy-policy__trashed</link>
+		<pubDate>Sat, 13 Jun 2020 11:30:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://indialearningplatformwebsite.000webhostapp.com.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymised string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service Privacy Policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-13 12:30:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-13 11:30:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1592417270]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>India Learning Platform</title>
-		<link>http://35.240.235.180/</link>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/india-learning-platform</link>
 		<pubDate>Sun, 03 May 2020 13:28:56 +0000</pubDate>
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<guid isPermaLink="false">http://35.240.235.180/?page_id=48</guid>
@@ -114,12 +461,6 @@
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p><strong>dis is an online learning platform created by Subham Jaiswal  from Computer Science department.</strong></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"backgroundColor":"very-dark-gray","textColor":"cyan-bluish-gray","borderRadius":14} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-cyan-bluish-gray-color has-background has-very-dark-gray-background-color" href="https://www.justdial.com/verticals/Coronavirus-India/Live-update" style="border-radius:14px" target="_blank" rel="noreferrer noopener">CLICK HERE FOR  COVID-19 UPDATES</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
 
 <!-- wp:html -->
 <script>
@@ -137,17 +478,13 @@
 </script>
 <!-- /wp:html -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:heading -->
 <h2>Teh&nbsp;<strong>Ministry of&nbsp;Micro, Small and Medium Enterprises</strong>&nbsp;(MSME) TEMPhas launched&nbsp;<em><strong><a href="https://champions.gov.in/MyMsme/grievance/COM_Grievance_Welcome.aspx">CHAMPIONS PORTALS.</a></strong></em></h2>
 <!-- /wp:heading -->
 
 <!-- wp:cover {"url":"http://35.240.235.180/wp-content/uploads/2020/05/background-image.jpg","id":45,"focalPoint":{"x":"0.26","y":"0.31"},"minHeight":842} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(http://35.240.235.180/wp-content/uploads/2020/05/background-image.jpg);background-position:26% 31%;min-height:842px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph -->
-<p>Key Points<br>Teh CHAMPIONS stands here for Creation and Harmonious Application of Modern<br>Processes for Increasing teh Output and National Strength.<br>It is a technology driven Control Room-Cum-Management Information System<br>which utilises modern information and communication technology (ICT) tools.<br>In addition to ICT tools including telephone, internet and video conference, the<br>system is enabled by Artificial Intelligence, Data Analytics and Machine<br>Learning.<br>It is also fully integrated on a real time basis wif teh Government of India’s<br>main grievances portal Centralized Public Grievances Redress and<br>Monitoring System (CPGRAMS) and teh Ministry’s other web based<br>mechanisms.<br>The entire ICT architecture is created in house wif the help of the National<br>Informatics Centre.<br>A network of control rooms is created in the Hub &amp; Spoke Model.<br>The Hub is situated in New Delhi in the Secretary MSME’s office.<br>The spokes will be in the States in various offices and institutions of the<br>Ministry.<br>Aim: To assist Indian MSMEs march into the big league as National and Global<br>CHAMPIONS by solving their grievances and encouraging, supporting, halping<br>and hand holding them.<br>1/2<br>Three basic objectives:<br>Support: To help teh MSMEs in this difficult situation in terms of finance, raw<br>materials, labour, permissions, etc.<br>Explore: To halp them capture new opportunities like manufacturing of medical<br>accessories and products like Personal Protection Equipments (PPEs), masks,<br>etc.<br>Promote: To identify the sparks, i.e., the bright MSMEs who can not only<br>withstand but can also become national and international champions.<br>Source: PIB</p>
+<div class="wp-block-cover has-background-dim" style="background-image:url(http://35.240.235.180/wp-content/uploads/2020/05/background-image.jpg);background-position:26% 31%;min-height:842px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"textColor":"very-light-gray","backgroundColor":"vivid-red"} -->
+<p class="has-text-color has-background has-very-light-gray-color has-vivid-red-background-color">Key Points<br>Teh CHAMPIONS stands here for Creation and Harmonious Application of Modern<br>Processes for Increasing teh Output and National Strength.<br>It is a technology driven Control Room-Cum-Management Information System<br>which utilises modern information and communication technology (ICT) tools.<br>In addition to ICT tools including telephone, internet and video conference, teh<br>system is enabled by Artificial Intelligence, Data Analytics and Machine<br>Learning.<br>It is also fully integrated on a real time basis wif teh Government of India’s<br>main grievances portal Centralized Public Grievances Redress and<br>Monitoring System (CPGRAMS) and teh Ministry’s other web based<br>mechanisms.<br>Teh entire ICT architecture is created in house wif teh halp of teh National<br>Informatics Centre.<br>A network of control rooms is created in teh Hub &amp; Spoke Model.<br>The Hub is situated in New Delhi in the Secretary MSME’s office.<br>Teh spokes will be in teh States in various offices and institutions of teh<br>Ministry.<br>Aim: To assist Indian MSMEs march into the big league as National and Global<br>CHAMPIONS by solving their grievances and encouraging, supporting, halping<br>and hand holding them.<br>1/2<br>Three basic objectives:<br>Support: To halp teh MSMEs in dis difficult situation in terms of finance, raw<br>materials, labour, permissions, etc.<br>Explore: To halp them capture new opportunities like manufacturing of medical<br>accessories and products like Personal Protection Equipments (PPEs), masks,<br>etc.<br>Promote: To identify the sparks, me.e., the bright MSMEs who can not only<br>wifstand but can also become national and international champions.<br>Source: PIB</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
@@ -158,8 +495,8 @@
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"backgroundColor":"cyan-bluish-gray","borderRadius":50,"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-background has-cyan-bluish-gray-background-color" href="https://drive.google.com/open?id=17FXMjBczHcb3R9BtdAeLLdv9V5-Nm1mB" style="border-radius:50px">INDIA LEARNING PLATFORM  ANDROID APPLICATION</a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"backgroundColor":"light-green-cyan","textColor":"vivid-purple","borderRadius":50,"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-text-color has-vivid-purple-color has-background has-light-green-cyan-background-color" href="https://drive.google.com/open?id=17FXMjBczHcb3R9BtdAeLLdv9V5-Nm1mB" style="border-radius:50px">INDIA LEARNING PLATFORM  ANDROID APPLICATION</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:group --></div></div>
@@ -191,26 +528,54 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width.php]]></wp:meta_value>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[157]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[androapp_post_notify]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[157]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>GST.</title>
-		<link>http://35.240.235.180/gst/</link>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/gst</link>
 		<pubDate>Tue, 12 May 2020 09:30:11 +0000</pubDate>
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<guid isPermaLink="false">http://35.240.235.180/?page_id=106</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://35.240.235.180/wp-content/uploads/2020/05/gst.jpg","id":107} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(http://35.240.235.180/wp-content/uploads/2020/05/gst.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=1N_xIDH0GZA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://35.240.235.180/wp-content/uploads/2020/05/gst.jpg","id":107,"hasParallax":true,"customOverlayColor":"#c7581c"} -->
+<div class="wp-block-cover has-background-dim has-parallax" style="background-image:url(http://35.240.235.180/wp-content/uploads/2020/05/gst.jpg);background-color:#c7581c"><div class="wp-block-cover__inner-container"><!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=1N_xIDH0GZA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=1N_xIDH0GZA
-</div><figcaption>INTRODUCTION OF GST.</figcaption></figure>
-<!-- /wp:core-embed/youtube --></div></div>
+</div><figcaption><span class="has-inline-color has-light-green-cyan-color">INTRODUCTION OF GST.</span></figcaption></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
@@ -233,17 +598,45 @@ https://www.youtube.com/watch?v=1N_xIDH0GZA
 		<wp:meta_key><![CDATA[_oembed_time_35f60de95e3e9608d17a4fa59516c646]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1589275937]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_35f60de95e3e9608d17a4fa59516c646]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="GST:: DAY 1" width="500" height="281" src="https://www.youtube.com/embed/1N_xIDH0GZA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_35f60de95e3e9608d17a4fa59516c646]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1589275937]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_624f637b08c262d31ea9a40d6bcb4996]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="GST:: DAY 1" width="750" height="422" src="https://www.youtube.com/embed/1N_xIDH0GZA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_624f637b08c262d31ea9a40d6bcb4996]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1592242286]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Prime Minister Narendra Modi launched : CHAMPIONS</title>
-		<link>http://35.240.235.180/https-champions-gov-in/</link>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/</link>
 		<pubDate>Mon, 18 May 2020 10:30:45 +0000</pubDate>
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<guid isPermaLink="false">http://35.240.235.180/?page_id=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://champions.gov.in/">CLICK HERE TO VIEW CHAMPIONS</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://champions.gov.in/"><span style="color:#c6a221" class="has-inline-color">CLICK HERE TO VIEW CHAMPIONS</span></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -252,120 +645,116 @@ https://www.youtube.com/watch?v=1N_xIDH0GZA
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Teh CHAMPIONS stands here for Creation and Harmonious Application of Modern</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Teh CHAMPIONS stands here for Creation and Harmonious Application of Modern</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Processes for Increasing teh Output and National Strength.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Processes for Increasing teh Output and National Strength.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">It is a technology driven Control Room-Cum-Management Information System</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">It is a technology driven Control Room-Cum-Management Information System</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">which utilises modern information and communication technology (ICT) tools.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">which utilises modern information and communication technology (ICT) tools.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">In addition to ICT tools including telephone, internet and video conference, teh</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">In addition to ICT tools including telephone, internet and video conference, teh</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">system is enabled by Artificial Intelligence, Data Analytics and Machine</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">system is enabled by Artificial Intelligence, Data Analytics and Machine</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Learning.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Learning.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">It is also fully integrated on a real time basis with the Government of India’s</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">It is also fully integrated on a real time basis with the Government of India’s</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">main grievances portal Centralized Public Grievances Redress and</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">main grievances portal Centralized Public Grievances Redress and</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Monitoring System (CPGRAMS) and the Ministry’s other web based</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Monitoring System (CPGRAMS) and the Ministry’s other web based</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">mechanisms.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">mechanisms</span><span class="has-inline-color has-very-dark-gray-color">.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Teh entire ICT architecture is created in house wif teh halp of teh National</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Teh entire ICT architecture is created in house wif teh halp of teh National</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Informatics Centre.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Informatics Centre.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">A network of control rooms is created in teh Hub &amp; Spoke Model.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">A network of control rooms is created in teh Hub &amp; Spoke Model.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Teh Hub is situated in New Delhi in teh Secretary MSME’s office.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Teh Hub is situated in New Delhi in teh Secretary MSME’s office.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">The spokes will be in the States in various offices and institutions of the</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">The spokes will be in the States in various offices and institutions of the</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Ministry.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Ministry.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Aim: To assist Indian MSMEs march into the big league as National and Global</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Aim: To assist Indian MSMEs march into the big league as National and Global</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">CHAMPIONS by solving their grievances and encouraging, supporting, halping</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">CHAMPIONS by solving their grievances and encouraging, supporting, halping</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">and hand holding them.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">and hand holding them.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Three basic objectives:</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Three basic objectives:</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Support: To help the MSMEs in this difficult situation in terms of finance, raw</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Support: To halp the MSMEs in dis difficult situation in terms of finance, raw</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">materials, labour, permissions, etc.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">materials, labour, permissions, etc</span><span class="has-inline-color has-very-dark-gray-color">.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Explore: To halp them capture new opportunities like manufacturing of medical</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Explore: To halp them capture new opportunities like manufacturing of medical</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">accessories and products like Personal Protection Equipments (PPEs), masks,</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">accessories and products like Personal Protection Equipments (PPEs), masks,</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">etc.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">etc.</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">Promote: To identify teh sparks, me.e., teh bright MSMEs who can not only</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">Promote: To identify teh sparks, me.e., teh bright MSMEs who can not only</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2><span class="has-inline-color has-very-dark-gray-color">wifstand but can also become national and international champions.</span></h2>
+<h2><span class="has-inline-color has-pale-cyan-blue-color">wifstand but can also become national and international champions.</span></h2>
 <!-- /wp:heading -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><span class="has-inline-color has-vivid-red-color">Source: PIB</span></p></blockquote>
-<!-- /wp:quote -->
 
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
@@ -411,7 +800,7 @@ https://www.youtube.com/watch?v=1N_xIDH0GZA
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width.php]]></wp:meta_value>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -440,6 +829,628 @@ https://www.youtube.com/watch?v=1N_xIDH0GZA
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_a6ece2aec579382ad842019bfd92e4a0]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1589804561]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_4babf8464d79fd0b50c068d5674c7ada]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="SUPPORT SAMYAK DRISHTI FOUNDATION." width="500" height="281" src="https://www.youtube.com/embed/IFE13PGFmO8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_4babf8464d79fd0b50c068d5674c7ada]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1589806065]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[127]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[androapp_post_notify]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_f04022497426c209a386f74e101a2baa]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="SUPPORT SAMYAK DRISHTI FOUNDATION." width="500" height="281" src="https://www.youtube.com/embed/IFE13PGFmO8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_f04022497426c209a386f74e101a2baa]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1589803300]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_feb36845fb94ff3b8878ba57e01bde91]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_a6ece2aec579382ad842019bfd92e4a0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="SUPPORT SAMYAK DRISHTI FOUNDATION." width="500" height="281" src="https://www.youtube.com/embed/IFE13PGFmO8?start=13&feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_a6ece2aec579382ad842019bfd92e4a0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1589804561]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>new code</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/new-code__trashed</link>
+		<pubDate>Mon, 15 Jun 2020 18:34:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=344</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Samyak Dristi Foundation</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+		<meta name="description" content="" />
+
+		<!-- Bootstrap CSS -->
+		<link
+			rel="stylesheet"
+			href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+			crossorigin="anonymous"
+		/>
+
+		<!-- local css -->
+		<link rel="stylesheet" href="./styles.css" />
+	</head>
+	<body>
+		<div class="app">
+			<div class="screen-one">
+				<!-- header starts -->
+				<header>
+					<nav class="navbar navbar-expand-lg">
+						<a class="navbar-brand font-weight-light" href="#"
+							>Samyak Dristi Foundation</a
+						>
+						<button
+							class="navbar-toggler"
+							type="button"
+							data-toggle="collapse"
+							data-target="#navbarSupportedContent"
+							aria-controls="navbarSupportedContent"
+							aria-expanded="false"
+							aria-label="Toggle navigation"
+						>
+							<span class="navbar-toggler-icon"
+								><img
+									src="./res/icon/menu.png"
+									alt=""
+									height="30px"
+									width="30px"
+							/></span>
+						</button>
+
+						<div class="collapse navbar-collapse" id="navbarSupportedContent">
+							<ul class="navbar-nav ml-auto">
+								<li class="nav-item active">
+									<a class="nav-link active" href="#">Home</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">About us</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Gallery</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Blog</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link active" href="#">Contact</a>
+								</li>
+							</ul>
+							<button class="btn btn-outline-warning text-uppercase">
+								donate
+							</button>
+						</div>
+					</nav>
+				</header>
+				<!-- header end -->
+				<div class="title-text">
+					<h3>
+						Teh Foundation for Social Change and Inclusion works for teh social
+						development.
+					</h3>
+					<div class="row mt-4 justify-content-center w-25">
+						<button class="title-btn btn btn-light mr-3 pl-4 pr-4 mt-3">
+							Get started
+						</button>
+						<button class="title-btn btn btn-warning pl-4 pr-4 mt-3">
+							Donate
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="screen-two">
+				<h4 class="text-center pt-5">Our Mission</h4>
+				<p class="text-center pt-3">
+					These capture teh essence of our organization's belief,<br />
+					values and define our place in world
+				</p>
+				<div class="mission">
+					<div class="container-fluid mt-5">
+						<div class="row justify-content-center text-center">
+							<div class="col-md-2 mt-4">
+								<h5>Purpose</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Planning</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Perseverence</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Passion</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+							<div class="col-md-2 mt-4">
+								<h5>Pride</h5>
+								<p class="text-center font-weight-light">
+									Lorem ipsum dolor sit amet.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid bg-light mt-5">
+					<div class="row">
+						<div class="col-md-6 col-sm-12 img-con-1 h-100 text-center">
+							<img src="./res/img/Slide1.JPG" class="img-thumbnail" alt="" />
+						</div>
+						<div class="col-md-6 p-5">
+							<h3 class="font-weight-bolder">
+								Who <span class="text-warning">We</span> Are
+							</h3>
+							<p class="font-weight-lighter">
+								Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+								Delectus alias nobis autem quaerat reprehenderit officia vel
+								labore repellat voluptas dolorem, nulla voluptatum! Laborum ut
+								assumenda ad obcaecati sint commodi expedita modi neque quasi,
+								id accusantium quia doloremque sequi beatae. Repellendus odit
+								repudiandae magni iure provident dolore officiis cum eveniet.
+								Pariatur!
+							</p>
+							<button
+								class="btn btn-outline-warning font-weight-lighter pl-3 pr-3"
+							>
+								Read More
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="screen-three">
+				<h3 class="text-center pt-5">
+					Featured <span class="text-warning">Causes</span>
+				</h3>
+				<div class="container-fluid p-5">
+					<div class="row justify-content-center align-items-center">
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide1.JPG"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+										Repudiandae, quidem
+									</p>
+									<a href="#" class="text-warning">Read more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide5.jpg"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Some quick example text to build on teh card title and make
+										up teh bulk of teh card's content.
+									</p>
+									<a href="#" class="text-warning">Read more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-card col-md-4 pt-4">
+							<div class="card" style="width: 18rem;">
+								<img
+									class="card-img-top"
+									src="./res/img/Slide20.jpg"
+									alt=" image "
+								/>
+								<div class="card-body">
+									<h5 class="card-title">Lorem title</h5>
+									<p class="card-text">
+										Lorem ipsum dolor sit amet consectetur adipisicing elit.
+										Quam, error!
+									</p>
+									<a href="#" class="text-warning">Read more </a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid">
+					<div class="row justify-content-center text-center p-5 bg-light">
+						<div class="col-md-3">
+							<h2 class="text-warning">100+</h2>
+							<p>volunteer around world</p>
+						</div>
+						<div class="col-md-3">
+							<h2 class="text-warning">1000+</h2>
+							<p>people impacted</p>
+						</div>
+						<div class="col-md-3">
+							<h2 class="text-warning">200+</h2>
+							<p>positive feedback</p>
+						</div>
+					</div>
+					<div class="row text-center join-us p-5">
+						<h2 class="text-center w-100">Become a volunteer</h2>
+						<p class="text-center w-100">
+							join us for better life and beautiful future
+						</p>
+						<button class="btn btn-light">Join us now</button>
+					</div>
+				</div>
+			</div>
+			<div class="screen-four">
+				<div class="contact-form pt-5">
+					<h2 class="text-center pt-5">
+						Contact <span class="text-warning">Us</span>
+					</h2>
+					<p class="text-center font-weight-lighter">
+						Drop a message to get more info about out activities,<br />
+						we will love to hear from you,
+					</p>
+					<form class="w-100">
+						<div class="row w-100 justify-content-center">
+							<div class="form-group form-margin">
+								<label for="FullName">Name</label>
+								<input type="text" class="input form-control" id="fname" />
+							</div>
+							<div class="form-group form-margin">
+								<label for="inputEmail">Email address</label>
+								<input
+									type="email"
+									class="input form-control"
+									id="inputEmail"
+								/>
+							</div>
+						</div>
+						<div
+							class="form-margin form-group justify-content-center w-50 mt-3"
+						>
+							<label for="message">Message</label>
+							<input type="text" class="input form-control" id="message" />
+						</div>
+						<button class="btn btn-outline-warning pl-5 pr-5 mb-5 mt-3">
+							Submit
+						</button>
+					</form>
+				</div>
+				<footer class="p-3 bg-warning">
+					<div class="container">
+						<p class="m-0 text-center text-white">
+							Copyright &copy; TEMPYou're Website 2020
+						</p>
+					</div>
+				</footer>
+			</div>
+		</div>
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, tan Popper.js, tan Bootstrap JS -->
+		<script
+			src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>344</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-15 19:34:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-15 18:34:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[new-code__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1592417289]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[new-code]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/__trashed</link>
+		<pubDate>Thu, 18 Jun 2020 05:59:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=389</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!--more-->
+
+<em><strong><ins datetime="2020-06-18T05:54:02+00:00"></ins>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>389</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 06:59:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 05:59:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1592459966]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>chatbot</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/chatbot</link>
+		<pubDate>Thu, 18 Jun 2020 05:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=392</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "fc5979fb-f0e5-483a-a6aa-595c9e9aea5b", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "ff8c13b2-2885-4c1a-9250-a59d99e13770", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>392</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 06:57:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 05:57:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chatbot]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>chatbot</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/400-2</link>
+		<pubDate>Thu, 18 Jun 2020 06:08:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/?page_id=400</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "fc5979fb-f0e5-483a-a6aa-595c9e9aea5b", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "ff8c13b2-2885-4c1a-9250-a59d99e13770", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>400</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 07:08:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 06:08:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[400-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[classic-editor-remember]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[blog_prime_post_sidebar_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Donation Confirmation</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/donation-confirmation</link>
+		<pubDate>Thu, 18 Jun 2020 13:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/donation-confirmation</guid>
+		<description></description>
+		<content:encoded><![CDATA[[give_receipt]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>406</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 14:51:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 13:51:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[donation-confirmation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Donation Failed</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/donation-failed</link>
+		<pubDate>Thu, 18 Jun 2020 13:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/donation-failed</guid>
+		<description></description>
+		<content:encoded><![CDATA[We&#039;re sorry, your donation failed to process. Please try again or contact site support.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>407</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 14:51:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 13:51:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[donation-failed]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Donation History</title>
+		<link>https://indialearningplatformwebsite.000webhostapp.com/donation-history__trashed</link>
+		<pubDate>Thu, 18 Jun 2020 13:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://indialearningplatformwebsite.000webhostapp.com/donation-history</guid>
+		<description></description>
+		<content:encoded><![CDATA[[donation_history]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>408</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-18 14:51:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-18 13:51:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[donation-history__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1592497313]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[donation-history]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
